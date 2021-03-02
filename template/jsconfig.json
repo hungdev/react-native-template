@@ -1,0 +1,44 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "baseUrl": "./",
+    "paths": {
+      "src/*": [
+        "./src/*"
+      ],
+      "app/*": [
+        "./src/*"
+      ],
+      "reducers/*": [
+        "./src/reducers/*"
+      ],
+      "screens/*": [
+        "./src/screens/*"
+      ],
+      "components/*": [
+        "./src/components/*"
+      ],
+      "themes/*": [
+        "./src/themes/*",
+      ],
+      "navigation/*": [
+        "./src/appNavigation/*"
+      ],
+      "i18n/*": [
+        "./src/i18n/*"
+      ],
+      "assets/*": [
+        "./src/assets/*"
+      ],
+      "utils/*": [
+        "./src/utils/*"
+      ],
+      "modules/*": [
+        "./modules/*"
+      ]
+    }
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

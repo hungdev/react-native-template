@@ -1,0 +1,29 @@
+{
+  "name": "rn-cee",
+  "version": "1.63.5",
+  "description": "React Native Template",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https:https://github.com/hungdev/react-native-template.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Cee <hungns126@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hungdev/react-native-template/issues"
+  },
+  "homepage": "https://github.com/hungdev/react-native-template/#readme"
+}

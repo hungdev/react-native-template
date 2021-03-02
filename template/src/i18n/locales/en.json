@@ -1,0 +1,12 @@
+{
+  "hello": "Hello english",
+  "logo": "JustBee",
+  "signIn": "Sign in",
+  "userName": "User Name",
+  "password": "Password",
+  "iForgotPassword": "I forgot password",
+  "required": "This field is required",
+  "email": {
+    "invalid": "Email is invalid"
+  }
+}

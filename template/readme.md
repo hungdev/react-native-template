@@ -1,0 +1,1 @@
+npm i -s axios color i18next lodash moment react-hook-form react-i18next react-native-localize react-redux redux redux-persist redux-promise-middleware redux-thunk react-native-vector-icons @react-native-async-storage/async-storage @react-navigation/native @react-navigation/bottom-tabs @react-navigation/stack
