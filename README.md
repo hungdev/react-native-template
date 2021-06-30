@@ -7,8 +7,6 @@ npx react-native init YourProjectName --template https://github.com/hungdev/reac
 ```
 
 > Dont forget change YourProjectName
-> and if you want to change newest version you can add @version number like that:
-> npx react-native@0.64.2 init YourProjectName --template https://github.com/hungdev/react-native-template.git
 
 ## This template use some libraries:
 
