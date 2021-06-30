@@ -3,7 +3,7 @@
 How to use:
 
 ```
-npx react-native init YourProjectName --template https://github.com/hungdev/HelloWorld.git
+npx react-native init YourProjectName --template https://github.com/hungdev/react-native-template.git
 ```
 
 > Dont forget change YourProjectName
